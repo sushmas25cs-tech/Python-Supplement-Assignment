@@ -10,4 +10,4 @@ def has_duplicates(lst):
     return False
 
 numbers = [1, 2, 3, 4, 5]
-print(f"Has duplicates: {has_duplicates(numbers)}")
+print(f"Has duplicates: {has_duplicates(numbers)}")  

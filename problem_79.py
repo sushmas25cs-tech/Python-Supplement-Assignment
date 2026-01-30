@@ -4,7 +4,7 @@
 def compound_interest(principal, rate, time, n):
     amount = principal * (1 + rate / (n * 100)) ** (n * time)
     return amount - principal
-
+ 
 p = 1000
 r = 5
 t = 2

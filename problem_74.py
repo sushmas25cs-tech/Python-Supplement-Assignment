@@ -16,3 +16,4 @@ def first_non_repeating(text):
 
 word = "programming"
 print(f"First non-repeating: {first_non_repeating(word)}")
+  
