@@ -7,7 +7,7 @@ def count_consonants(text):
     for char in text:
         if char.isalpha() and char not in vowels:
             count += 1
-    return count
+    return count  
 
 sentence = "Hello World"
 print(f"Number of consonants: {count_consonants(sentence)}")

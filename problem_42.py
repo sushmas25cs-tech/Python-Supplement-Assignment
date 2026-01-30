@@ -6,3 +6,4 @@ sentence = ""
 for word in words:
     sentence += word + " "
 print(f"Sentence: {sentence}")
+  
